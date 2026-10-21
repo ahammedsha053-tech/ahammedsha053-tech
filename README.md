@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Ahammed Sha 👋
 
-<!--
-**ahammedsha053-tech/ahammedsha053-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**E-commerce Specialist | Tech Enthusiast**
 
-Here are some ideas to get you started:
+🚀 I help businesses grow online. Specialist in Shopify & Digital Operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ My Skills
+- E-commerce: Shopify, Store Management
+- Marketing: SEO, Digital Marketing  
+- Tech: GitHub, Analytics
+
+#### 📫 Contact
+- Email: ahammedsha053@gmail.com
+- From: Chirayinkeezhu, Kerala
+
+⭐ *Building my tech journey, one commit at a time*
